@@ -16,13 +16,15 @@ Circle - Unique Attack/Call third member for assist
 
 D-Pad - Tag into a team member, or taunt on down
 
-Left Stick - Movement
-Right Stick - Camera
+Left Stick - Movement, click to shift targets
+Right Stick - Camera, click to re-centre view
 
 ===Gameplay===
 
+DMC-style action in a 3D environment, roam the level from encounter to encounter
+Mission structure - select a mission to take on from the S.S. Nation hub, fly out and do it
 Team of 1-4 characters beating up enemies. Need a premise that gives an opportunity for lots of different areas/enemies
-Can't use a full team of 4 right away
+Can't use a full team of 4 right away - start off with one cool, likeable character who kicks ass and takes names and makes it look easy
 Add/unlock more characters with more play/unlock conditions (MAKE IMPORTANT BOSS PLAYABLE BY SURVIVING WITHOUT HITTING HIM FOR 2 MINUTES)
 Separate health bars for each character, if defeated they're knocked out until the next mission/revival item is used
 
@@ -37,5 +39,24 @@ Cancelling to a tag means that the currently executing attack will finish its an
 
 Calling an assist causes the called character to perform one move/string that the player programs in the menu, same vein as programming assists in Skullgirls
 Called character can be hurt, knocks them out of the assist
-Cancelling to an assist call should interrupt the currently execting move with a call animation
+Cancelling to an assist call should interrupt the currently executing move with a call animation
 Some kind of resource associated with tags, if a tag/assist is hit, they go on a cooldown as well
+
+Definitely a Bayonetta-esque camera - fairly free to rotate, lock-on fouses the view to the locked enemy
+
+===Presentation===
+
+Some thought led me to want some kind of low-poly style (Metal Gear Solid, Resident Evil 3, Mega Man Legends, etc.). 
+Low-poly allows for a few things - quicker turnaround on assets, easier to animate, allows for assets to be loaded in memory on less powerful machines, plus I just love low-poly stuff
+Colourful, non-serious tone allows for crazier and more interesting character designs/worlds
+Go to a world made of sweets, nintendo style, beat up biscuits etc. Next mission, fly to a volcanic wasteland plagued by demon-like monsters. You could go crazy.
+
+===Story===
+
+People called Hunters (Assassins? some other cool name for someone whose work involves beating up enemies) work as teams and make a living by travelling to other worlds and dimensions to kill stuff that people want dead
+The player starts the game mid-mission, tutorial type thing, kills an easy boss at the end, and gets their reward, some currency to spend on moves/powerups.
+Get transported back to the S.S. Nation, a spaceship that the protagonist flies around in to get to jobs
+S.S. Nation acts as the player's hub - purchase new moves/power-ups here, go to job locations
+Maybe major story points give the player ship upgrades that let them venture to new places?
+Something to unlock early on - I REALLY want some kind of endless dungeon thing where you just get room after room of encounters to beat
+NEED SOME MAJOR PLOT THREAD
