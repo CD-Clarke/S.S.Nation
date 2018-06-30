@@ -1,0 +1,41 @@
+===S.S.Nation Game Pitch===
+Team-based action game a-la Devil May Cry or Bayonetta. Primary gimmicks are that you play with a party of up to 4 characters and can freely tag between them in combos, and the Mod button. 
+'Hunters' fly on the S.S. Nation, a starship that takes them to various [planets/dimensions/planes of existence] to fight things. Work as a team.
+
+===Button layout [DS4]===
+
+R1 - Lock on
+R2 - Attack A + Attack B
+L1 - Mod Button {Hold to change buttons to perform the action after the slash}
+L2 - Guard
+
+Cross - Jump/Unique movement
+Square - Attack A/Call first member for assist
+Triangle - Attack B/Call second member for assist
+Circle - Unique Attack/Call third member for assist
+
+D-Pad - Tag into a team member, or taunt on down
+
+Left Stick - Movement
+Right Stick - Camera
+
+===Gameplay===
+
+Team of 1-4 characters beating up enemies. Need a premise that gives an opportunity for lots of different areas/enemies
+Can't use a full team of 4 right away
+Add/unlock more characters with more play/unlock conditions (MAKE IMPORTANT BOSS PLAYABLE BY SURVIVING WITHOUT HITTING HIM FOR 2 MINUTES)
+Separate health bars for each character, if defeated they're knocked out until the next mission/revival item is used
+
+Jumps have invincibility, give some characters invincibile moves?
+
+Each different character will have similar but distinct combo strings; few unique combinations to reduce the need for memorization
+Therefore, attack strings (AABA) will often be shared between characters with SIMILAR effects, similar to Bayonetta where different weapons would share attack strings
+Obvious exception is combos using a characers unique attack
+
+Attack strings can be cancelled into directional attacks (think DMC moves where you lock on and do attack+direction), jumps, unique movements, guard, tags and assist calls
+Cancelling to a tag means that the currently executing attack will finish its animation even while the new character is free to move, increasing combo ability
+
+Calling an assist causes the called character to perform one move/string that the player programs in the menu, same vein as programming assists in Skullgirls
+Called character can be hurt, knocks them out of the assist
+Cancelling to an assist call should interrupt the currently execting move with a call animation
+Some kind of resource associated with tags, if a tag/assist is hit, they go on a cooldown as well
